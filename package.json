@@ -25,5 +25,9 @@
   },
   "wbp": {
     "project": "umd"
+  },
+  "dependencies": {
+    "promisify-fs": "^1.0.35"
   }
 }
+
