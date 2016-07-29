@@ -9,7 +9,7 @@
   "description": "wbp-dev is a wbp plugin specialized in developing and debug working process for specific project in wbp ecosystem",
   "author": "AlexWang <1669499355@qq.com>",
   "name": "wbp-dev",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "homepage": "https://github.com/AlexWang1987/wbp-dev#readme",
   "keywords": [
@@ -30,4 +30,3 @@
     "promisify-fs": "^1.0.35"
   }
 }
-
